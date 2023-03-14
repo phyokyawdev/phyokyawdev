@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phyo Kyaw.
 - 👀 I’m interested in developing web apis and apps.
-- 🌱 I’m currently learning node js and react js.
+- 🌱 I’m currently working with nodejs and angular.
 - 💞️ I’m looking to collaborate on zoom, messenger and github.
 - 📫 You can reach me via my email - phyokyawdev@gmail.com
 
